@@ -1,7 +1,7 @@
-## PRODIGY_WORK
+# PRODIGY_WORK
 This repository contains code samples and projects involving HTML, CSS, JavaScript, and Python with Streamlit. Below, you'll find a brief overview of the contents and how to navigate through them.
 
-# Contents
+## Contents
 1. HTML Samples: This directory contains simple HTML code snippets and small projects demonstrating various HTML features and techniques.
 
 2. CSS Samples: Here, you'll find CSS code examples showcasing different styling techniques for web elements. These samples can be helpful in understanding how to apply styles to HTML elements effectively.
@@ -10,7 +10,7 @@ This repository contains code samples and projects involving HTML, CSS, JavaScri
 
 4. Python with Streamlit: This section contains Python code leveraging the Streamlit library for building interactive web applications. Streamlit allows you to create data-driven apps quickly and easily using only Python.
 
-# How to Use
+## How to Use
 1. Clone the Repository: Start by cloning this repository to your local machine using Git.
 git clone https://github.com/NIRMAL1508/PRODIGY_WORK.git
 
@@ -27,10 +27,10 @@ Then, navigate to the Python-Streamlit directory and run any Streamlit app using
 streamlit run app_name.py
 Replace app_name.py with the name of the Streamlit Python file you want to run.
 
-# Contributions
+## Contributions
 Contributions to this repository are welcome! If you have any HTML, CSS, JavaScript, or Python with Streamlit code samples or projects that you'd like to share, feel free to submit a pull request.
 
-# License
+## License
 This repository is licensed under the MIT License. Feel free to use the code for personal or commercial projects.
 
 
